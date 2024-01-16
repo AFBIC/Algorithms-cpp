@@ -1,0 +1,4 @@
+#define BEGIN_NAMESPACE_AFBIC namespace AFBIC{
+
+#define END_NAMESPACE_AFBIC }
+
